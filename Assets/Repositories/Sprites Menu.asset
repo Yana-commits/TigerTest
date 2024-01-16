@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d813a9a78bcc8894293d557b45eadeae, type: 3}
+  m_Name: Sprites Menu
+  m_EditorClassIdentifier: 
+  backFront:
+  - {fileID: 21300000, guid: 0e42babf3cb25e1468f704bd884a574d, type: 3}
+  leftRight:
+  - {fileID: 21300000, guid: b17b46d679f0b824f916e23486b4cbea, type: 3}
+  leftFront:
+  - {fileID: 21300000, guid: 93d2b76a70f59a3498054af663b1b8cd, type: 3}
+  frontRight:
+  - {fileID: 21300000, guid: 6caef66d27cb7ea4a8f641d34beb9117, type: 3}
+  rightBack:
+  - {fileID: 21300000, guid: 5fc2b0f02513769458d853edafbeca1e, type: 3}
+  backLeft:
+  - {fileID: 21300000, guid: 132cb71af410b8947948ce28ddce50bd, type: 3}
+  backLeftFront: {fileID: 21300000, guid: 41a1bd05d8e24384e94809558ae2ca7c, type: 3}
+  backRightFront: {fileID: 21300000, guid: 546bf6350d6e9bb4486a899701d0b51a, type: 3}
+  leftFrontRight: {fileID: 21300000, guid: c7207339d6c992941b056e30782cec6e, type: 3}
+  leftBackRight: {fileID: 21300000, guid: bce1dbd8726a4d647a74c4031876d7ee, type: 3}
+  blank: {fileID: 21300000, guid: d17891c16f6c0a04282ed7db2a8b00c4, type: 3}
